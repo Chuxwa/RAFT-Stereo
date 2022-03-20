@@ -1,0 +1,8 @@
+.vscode/
+__pycache__
+output/
+*.png
+*.txt
+*.npy
+*.pth
+*.bmp
