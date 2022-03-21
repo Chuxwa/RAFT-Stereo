@@ -6,3 +6,6 @@ output/
 *.npy
 *.pth
 *.bmp
+build/
+corr_sampler.egg-info/
+dist/
